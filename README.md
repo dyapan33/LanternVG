@@ -1,18 +1,12 @@
-*This project is not actively maintained.*
-
-NanoVG
+LanternVG
 ==========
 
-NanoVG is small antialiased vector graphics rendering library for OpenGL. It has lean API modeled after HTML5 canvas API. It is aimed to be a practical and fun toolset for building scalable user interfaces and visualizations.
-
-## Screenshot
-
-![screenshot of some text rendered witht the sample program](/example/screenshot-01.png?raw=true)
+LanternVG is small antialiased vector graphics rendering library for Vulkan.
 
 Usage
 =====
 
-The NanoVG API is modeled loosely on HTML5 canvas API. If you know canvas, you're up to speed with NanoVG in no time.
+The LanternVG API is modeled loosely on HTML5 canvas API. If you know canvas, you're up to speed with LanternVG in no time.
 
 ## Creating drawing context
 
